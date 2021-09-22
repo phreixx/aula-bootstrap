@@ -1,11 +1,35 @@
 .navbar{
     font-size: 20px;
     font-family:'Trebuchet MS', Arial, sans-serif;
+   
 
 }
+
 .quem-somos{
-    background-color:#585858;
+    background-color:#ffffff9a;
 }
 .margin{
-    padding-top: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.rounded-circle{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    
+}
+.parceiros{
+    background-color:#585858;
+    color: white;
+    
+}    
+.container{
+    margin-top: 20px;
+    font-size: large;
+
+}
+
+
+.bg-footer{
+    background-color: #212529;
+    color: white;
 }
